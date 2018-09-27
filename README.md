@@ -1,5 +1,1 @@
-HELLO WORLD!
-
-Another commit to the README
-
-My third commit
+DELETE EVERYTHING AND START OVER
